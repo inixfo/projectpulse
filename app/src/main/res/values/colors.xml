@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="primary">#2196F3</color>
-    <color name="primary_dark">#1976D2</color>
-    <color name="accent">#FF4081</color>
-    <color name="background">#FFFFFF</color>
-    <color name="surface">#FFFFFF</color>
-    <color name="error">#B00020</color>
-    <color name="text_primary">#000000</color>
-    <color name="text_secondary">#757575</color>
-    <color name="divider">#BDBDBD</color>
+    <color name="primary">#FF2196F3</color>
+    <color name="primary_dark">#FF0069C0</color>
+    <color name="accent">#FF03DAC5</color>
+    <color name="background">#FFFAFAFA</color>
+    <color name="surface">#FFFFFFFF</color>
+    <color name="error">#FFE53935</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
     
     <!-- Status colors -->
     <color name="success">#4CAF50</color>
