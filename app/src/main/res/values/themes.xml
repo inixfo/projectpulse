@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <style name="Theme.ProjectPulse" parent="Theme.Material3.Light.NoActionBar">
-        <item name="colorPrimary">@color/primary</item>
-        <item name="colorPrimaryContainer">@color/primary_dark</item>
-        <item name="colorSecondary">@color/accent</item>
+    <style name="Theme.ProjectPulse" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:colorPrimary">@color/primary</item>
+        <item name="android:colorPrimaryDark">@color/primary_dark</item>
+        <item name="android:colorAccent">@color/accent</item>
         <item name="android:colorBackground">@color/background</item>
-        <item name="colorSurface">@color/surface</item>
-        <item name="colorError">@color/error</item>
+        <item name="android:colorError">@color/error</item>
         <item name="android:textColorPrimary">@color/text_primary</item>
         <item name="android:textColorSecondary">@color/text_secondary</item>
         <item name="android:windowLightStatusBar">true</item>

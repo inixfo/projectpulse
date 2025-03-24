@@ -58,6 +58,11 @@ fun Navigation(
                     navController.navigate(Screen.Login.route) {
                         popUpTo(Screen.SignUp.route) { inclusive = true }
                     }
+                },
+                onSignUpSuccess = {
+                    navController.navigate(Screen.Login.route) {
+                        popUpTo(Screen.SignUp.route) { inclusive = true }
+                    }
                 }
             )
         }
